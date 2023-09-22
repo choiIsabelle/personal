@@ -1,0 +1,9 @@
+markdown: rdiscount
+pygments: true
+permalink: 
+rdiscount:
+  extensions: [smart]
+
+name: Isabelle Choi
+url: http://choiisabelle.github.io
+github_username: choiisabelle 
