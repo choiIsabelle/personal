@@ -10951,7 +10951,19 @@ header.masthead {
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   background-attachment: scroll;
   background-position: center center;
-  background-size: 3.2rem;
+  background-size: cover;
+  background-image:  linear-gradient(120deg,
+  blue, #7367F0, 
+  #81FBB8,#28C76F, 
+  #FFD26F,#3677FF,
+  #FEC163,#DE4313,
+  #EECE13,#B210FF
+  );
+  animation: bganimation 10s infinite;
+}
+@keyframes bganimation {
+  from{ background-color: blue}
+  to{background-color: red}
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
