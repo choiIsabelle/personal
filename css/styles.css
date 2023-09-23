@@ -10952,14 +10952,15 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  background-image:  linear-gradient(120deg,
+  background-color: #121314;
+  /* background-image:  linear-gradient(120deg,
   blue, #7367F0, 
   #81FBB8,#28C76F, 
   #FFD26F,#3677FF,
   #FEC163,#DE4313,
   #EECE13,#B210FF
   );
-  animation: bganimation 10s infinite;
+  animation: bganimation 10s infinite; */
 }
 @keyframes bganimation {
   from{ background-color: blue}
