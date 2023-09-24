@@ -11330,9 +11330,12 @@ section#contact form#contactForm :-ms-input-placeholder {
 .socialLinks-bottom{
   padding: 4rem;
 }
+.socialLinks-beneath-nav{
+  padding: 4rem;
+}
 .svg-container{
   position: relative;
-  background-size: cover;
+  background-size: 900% 900%;
   background-position: center center;
   height: auto;
   width: auto;
