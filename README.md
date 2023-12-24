@@ -4,7 +4,8 @@ This repository contains the code for my personal website, hosted on [Github pag
 _Containing current information about my links, interests, and skills_
 
 # Demo
-![Screen Shot 2023-12-24 at 2 19 14 PM](https://github.com/choiIsabelle/personal/assets/67203277/f3ba4063-066f-4053-a58f-dfd6e5711560)
+![smallerisabellepersonal1](https://github.com/choiIsabelle/personal/assets/67203277/9479a039-da0d-4a90-8cbb-5a1f967b27b9)
+
 
 ## How does it work?
 My website is deployed [ here: ](https://choiisabelle.github.io/personal/). 
