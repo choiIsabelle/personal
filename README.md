@@ -2,7 +2,7 @@
 This repository contains the code for my personal website, hosted on Github pages.
 
 
-#Demo
+# Demo
 
-#ToDo
+# ToDo
 - Customize icon
