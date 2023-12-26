@@ -11352,7 +11352,19 @@ section#contact form#contactForm :-ms-input-placeholder {
   transform: translate(-50%, -50%);
 }
 /* //add css specifications from tests file to relevant divs here */
-.introImageContainer{
+.introImageContainer {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  margin-left:10rem;
+  margin-right:10rem;
 }
+
+.introImageContainer p {
+  margin-bottom: 10px;
+  width: 65%;
+}
+.introAboutHeaders{
+  margin-left:10rem;
+  margin-right:10rem;
+}
+
