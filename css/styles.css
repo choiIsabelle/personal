@@ -11367,4 +11367,18 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-left:10rem;
   margin-right:10rem;
 }
-
+.workExperienceMain{
+  margin-left:10rem;
+  margin-right:10rem;
+}
+.workExperienceTable{
+  width: 100%;
+  margin-bottom: 1rem;
+  display: table;
+  text-indent: initial;
+}
+.workExperienceYear{
+  margin-left:10rem;
+  margin-right:10rem;
+  --bs-text-opacity: 1;
+}
