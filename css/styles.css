@@ -11443,6 +11443,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 .card-title {
   font-size: 1.2em;
   margin-bottom: 5px;
+
 }
 .card-sutitle {
   font-size: 1.2em;
@@ -11461,7 +11462,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 .card-button{
   padding: 0.3rem 0.4rem;
-    background-color: rgb(76, 78, 82);
+    background-color: #2f302f;
     border-radius: 0.8rem;
     color: #ffc800;
     border: none;
