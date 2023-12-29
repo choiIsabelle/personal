@@ -11378,6 +11378,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-indent: initial;
 }
 .workExperienceYear{
+  color: #ffc800;
   margin-left:10rem;
   margin-right:10rem;
   --bs-text-opacity: 1;
