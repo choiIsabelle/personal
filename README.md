@@ -4,8 +4,7 @@ This repository contains the code for my personal website, hosted on [Github pag
 _Containing current information about my links, interests, and skills_
 
 # Demo
-![DemonstrationGIFDec262](https://github.com/choiIsabelle/personal/assets/67203277/9ab7a6b9-35a6-4e26-b41a-945be44d8dff)
-
+![DemonstrationGIFDec28v3](https://github.com/choiIsabelle/personal/assets/67203277/edc45155-3158-431e-85ec-00ee3420e4a4)
 
 
 ## How does it work?
@@ -14,6 +13,6 @@ For each new update, there may be some delay before all changes are visible thro
 
 ## ToDo
 - [ ] Clean up commented-out code
-- [ ] Add more structure to main page
-- [ ] Make menu bar links functional
-- [ ] Add more GIFs
+- [X] Add more structure to main page
+- [X] Make menu bar links functional
+
